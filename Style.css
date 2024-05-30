@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(127, 67, 67);
+
+}
+.war{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px; border-color: rgb(19, 148, 105);
+}
+.wara{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px;
+    border-color: rgb(83, 40, 123);
+}
+.form_cls p{
+    color: brown;
+    font-weight: 500;
+}
+
+article > p{
+    background-color: rgb(229, 162, 162);
+    width: 150px;
+    height: 40px;
+    font-weight: 900;
+    font-style: italic; 
+    text-decoration: underline;
+    text-align: center;
+}
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: tomato;
+}
+
+div{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+
+div{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+
